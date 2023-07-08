@@ -1,21 +1,9 @@
 # Testing and Evaluations of Language Models and Transformers
 
-This repository contains code and resources for testing and evaluating various language models and transformers. Our goal is to provide a comprehensive benchmarking platform for these models, and to contribute to the understanding and improvement of these powerful tools.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-In this project, we aim to test and evaluate various language models and transformers. We focus on models like BERT, GPT-3, T5, and others. Our testing framework includes both qualitative and quantitative evaluations.
+This repository contains code and resources for testing and evaluating various language models and transformers. Our goal is to provide a comprehensive benchmarking platform for these models, and to contribute to the understanding and improvement of these powerful tools. We aim to test and evaluate various language models and transformers. Our testing framework includes both qualitative and quantitative evaluations.
 
 
-## Scenarios/Tasks
+## Tasks
 
 We test the models on a variety of tasks to evaluate their performance and robustness. These tasks include but are not limited to:
 
@@ -76,13 +64,12 @@ We use a variety of metrics to evaluate the models, including:
 
 In addition to these, also evaluations for:
 
-
-Language: Assessing linguistic capabilities.
-Knowledge: Evaluating knowledge (e.g. factual, cultural, commonsense).
-Reasoning: Evaluating reasoning capabilities (e.g. mathematical, hierarchical).
-Harms: Evaluating potential social harms (e.g., copyright, disinformation, social bias, toxicity).
-Efficiency: Evaluating training and inference efficiency.
+- Language: Assessing linguistic capabilities.
+- Knowledge: Evaluating knowledge (e.g. factual, cultural, commonsense).
+- Reasoning: Evaluating reasoning capabilities (e.g. mathematical, hierarchical).
+- Harms: Evaluating potential social harms (e.g., copyright, disinformation, social bias, toxicity).
+- Efficiency: Evaluating training and inference efficiency.
 
 ## Results
 
-We present our results in the form of tables and graphs. You can find these in the [Results](./Results) directory.
+We present our results in the form of tables and graphs and will be available in [Results](./Results) directory.
